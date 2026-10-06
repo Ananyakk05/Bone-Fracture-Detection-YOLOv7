@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+*.onnx
+*.pt
+
+GRAZPEDWRI-DX_dataset/
+runs/
+
+.venv/
+venv/
+env/
+
+.vscode/
+
+*.log
+.DS_Store
